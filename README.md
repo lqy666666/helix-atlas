@@ -1,5 +1,7 @@
 # Helix Atlas
 
+> 🚀 在线演示：<https://lqy666666.github.io/helix-atlas/>
+
 面向生物医学入门课程的 DNA 序列可视化工具。首页使用用户提供的 DNA 视频，通过青蓝、紫罗兰与暖粉环境光合成和调色呈现更明亮的画面，静音循环播放，仅有一个进入按钮。用户提供的无字分子图片用作实验室、图谱和指南页面的背景。
 
 ## 运行
@@ -40,7 +42,7 @@ npm run dev
 
 ## 在线演示
 
-- 站点地址：部署完成后为 `https://<你的用户名>.github.io/helix-atlas/`
+- 站点地址：<https://lqy666666.github.io/helix-atlas/>（已上线）
 - 仓库内置 GitHub Actions：推送到 `main` 分支即自动构建并发布到 GitHub Pages。
 
 ## 部署
